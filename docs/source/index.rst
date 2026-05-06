@@ -9,6 +9,7 @@ Intent Classifier documentation
 .. toctree::
    :maxdepth: 2
    :caption: Modules:
+
    app
    intent_classifier
    db
